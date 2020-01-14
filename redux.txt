@@ -1,0 +1,5 @@
+npx create-react-app learn-redux
+npm install redux react-redux
+
+Redux DevTools in Chrome
+https://github.com/zalmoxisus/redux-devtools-extension
